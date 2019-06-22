@@ -1,0 +1,6 @@
+C:\Users\Gökhan\source\repos\ListTopTenWeb\Demo.Helper\bin\Debug\Demo.Helper.dll
+C:\Users\Gökhan\source\repos\ListTopTenWeb\Demo.Helper\bin\Debug\Demo.Helper.pdb
+C:\Users\Gökhan\source\repos\ListTopTenWeb\Demo.Helper\obj\Debug\Demo.Helper.csprojAssemblyReference.cache
+C:\Users\Gökhan\source\repos\ListTopTenWeb\Demo.Helper\obj\Debug\Demo.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\source\repos\ListTopTenWeb\Demo.Helper\obj\Debug\Demo.Helper.dll
+C:\Users\Gökhan\source\repos\ListTopTenWeb\Demo.Helper\obj\Debug\Demo.Helper.pdb

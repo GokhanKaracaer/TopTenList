@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+  <Product>
+    <ProductId>1</ProductId>
+    <ProductName>Generic Mouse</ProductName>
+    <ProductCost>30.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>2</ProductId>
+    <ProductName>Generic Keyboard</ProductName>
+    <ProductCost>20.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>3</ProductId>
+    <ProductName>Generic Hard Drive</ProductName>
+    <ProductCost>100.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>4</ProductId>
+    <ProductName>Generic Speaker</ProductName>
+    <ProductCost>25.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>5</ProductId>
+    <ProductName>Generic screen</ProductName>
+    <ProductCost>210.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>6</ProductId>
+    <ProductName>Generic ram</ProductName>
+    <ProductCost>100.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>7</ProductId>
+    <ProductName>Generic camera</ProductName>
+    <ProductCost>30.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>8</ProductId>
+    <ProductName>Generic usb</ProductName>
+    <ProductCost>20.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>9</ProductId>
+    <ProductName>Generic processor</ProductName>
+    <ProductCost>1000.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>10</ProductId>
+    <ProductName>Generic display card</ProductName>
+    <ProductCost>1400.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>11</ProductId>
+    <ProductName>Generic headphone</ProductName>
+    <ProductCost>50.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>12</ProductId>
+    <ProductName>Generic microphone</ProductName>
+    <ProductCost>30.00</ProductCost>
+  </Product>
+</Products>

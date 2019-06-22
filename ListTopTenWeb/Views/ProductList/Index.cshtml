@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using Demo.Helper.ExternalModel;
+@model IEnumerable<Demo.Helper.ExternalModel.Products>
+<h2>İlk 10 Xml Verisi</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Product Name</th>
+        <th>Product Cost</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                $@Html.DisplayFor(modelItem => item.ProductCost)
+            </td>
+        </tr>
+    }
+</table>  
